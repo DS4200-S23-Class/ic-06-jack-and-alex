@@ -1,0 +1,12 @@
+body {
+	font-family: Arial, sans-serif;
+	font-size: 30px;
+}
+
+circle {
+	fill: limegreen;
+}
+
+#frame {
+	width: 500px;
+	height: 500px;
